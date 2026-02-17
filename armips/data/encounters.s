@@ -8,7 +8,7 @@
 // Each encounter data has been labeled with the area it gets used.
 // Some are labeled ???, these are most likely not used.
 
-// Slot Probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
+// probabilities:  20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
 
 encounterdata   0   // New Bark Town
 
@@ -124,7 +124,7 @@ goodrodrate 0
 superrodrate 0
 walklevels 2, 3, 2, 3, 3, 3, 2, 2, 4, 4, 4, 4
 
-// Sentret 30, Mareep 30, Ledyba 20, Spinarak 20
+// sentret 30, mareep 30, ledyba 20, spinarak 20
 pokemon SPECIES_SENTRET
 pokemon SPECIES_MAREEP
 pokemon SPECIES_SENTRET
@@ -139,7 +139,7 @@ pokemon SPECIES_SPINARAK
 pokemon SPECIES_SPINARAK
 
 // day encounter slots
-// Sentret 30, Mareep 30, Ledyba 30, Spinarak 10
+// sentret 30, mareep 30, ledyba 30, spinarak 10
 pokemon SPECIES_SENTRET
 pokemon SPECIES_MAREEP
 pokemon SPECIES_SENTRET
@@ -154,7 +154,7 @@ pokemon SPECIES_SPINARAK
 pokemon SPECIES_SPINARAK
 
 // night encounter slots
-// Sentret 30, Mareep 30, Ledyba 10, Spinarak 30
+// sentret 30, mareep 30, ledyba 10, spinarak 30
 pokemon SPECIES_SENTRET
 pokemon SPECIES_MAREEP
 pokemon SPECIES_SENTRET
@@ -335,46 +335,49 @@ superrodrate 75
 walklevels 2, 3, 2, 3, 4, 4, 4, 4, 4, 4, 4, 4
 
 // morning encounter slots
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_METAPOD
-pokemon SPECIES_METAPOD
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
+// hoppip 20, hoothoot 20, sentret 20, mareep 20, ledyba 10, spinarak 10
+pokemon SPECIES_HOPPIP
+pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_SENTRET
+pokemon SPECIES_SENTRET
+pokemon SPECIES_MAREEP
+pokemon SPECIES_MAREEP
+pokemon SPECIES_LEDYBA
+pokemon SPECIES_LEDYBA
+pokemon SPECIES_SPINARAK
+pokemon SPECIES_SPINARAK
+pokemon SPECIES_SPINARAK
+pokemon SPECIES_SPINARAK
 
 // day encounter slots
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_METAPOD
-pokemon SPECIES_METAPOD
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_METAPOD
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_METAPOD
+// hoppip 30, hoothoot 10, sentret 20, mareep 20, ledyba 15, spinarak 5
+pokemon SPECIES_HOPPIP
+pokemon SPECIES_SENTRET
+pokemon SPECIES_HOPPIP
+pokemon SPECIES_MAREEP
+pokemon SPECIES_MAREEP
+pokemon SPECIES_LEDYBA
+pokemon SPECIES_LEDYBA
+pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_SPINARAK
+pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_SPINARAK
 
 // night encounter slots
+// hoppip 10, hoothoot 30, sentret 20, mareep 20, ledyba 5, spinarak 15
+pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_SENTRET
+pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_MAREEP
+pokemon SPECIES_MAREEP
 pokemon SPECIES_SPINARAK
-pokemon SPECIES_RATTATA
 pokemon SPECIES_SPINARAK
-pokemon SPECIES_RATTATA
-pokemon SPECIES_HOOTHOOT
-pokemon SPECIES_HOOTHOOT
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_HOOTHOOT
-pokemon SPECIES_HOOTHOOT
-pokemon SPECIES_HOOTHOOT
-pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_HOPPIP
+pokemon SPECIES_HOPPIP
+pokemon SPECIES_LEDYBA
+pokemon SPECIES_HOPPIP
+pokemon SPECIES_LEDYBA
 
 // hoenn encounter slots
 pokemon SPECIES_WHISMUR
@@ -439,46 +442,49 @@ superrodrate 75
 walklevels 3, 4, 3, 4, 3, 3, 5, 5, 5, 5, 5, 5
 
 // morning encounter slots
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_METAPOD
-pokemon SPECIES_METAPOD
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_METAPOD
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_METAPOD
+// hoppip 20, hoothoot 20, sentret 20, mareep 20, ledyba 10, spinarak 10
+pokemon SPECIES_HOPPIP
+pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_SENTRET
+pokemon SPECIES_SENTRET
+pokemon SPECIES_MAREEP
+pokemon SPECIES_MAREEP
+pokemon SPECIES_LEDYBA
+pokemon SPECIES_LEDYBA
+pokemon SPECIES_SPINARAK
+pokemon SPECIES_SPINARAK
+pokemon SPECIES_SPINARAK
+pokemon SPECIES_SPINARAK
 
 // day encounter slots
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_METAPOD
-pokemon SPECIES_METAPOD
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_METAPOD
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_METAPOD
+// hoppip 30, hoothoot 10, sentret 20, mareep 20, ledyba 15, spinarak 5
+pokemon SPECIES_HOPPIP
+pokemon SPECIES_SENTRET
+pokemon SPECIES_HOPPIP
+pokemon SPECIES_MAREEP
+pokemon SPECIES_MAREEP
+pokemon SPECIES_LEDYBA
+pokemon SPECIES_LEDYBA
+pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_SPINARAK
+pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_SPINARAK
 
 // night encounter slots
+// hoppip 10, hoothoot 30, sentret 20, mareep 20, ledyba 5, spinarak 15
+pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_SENTRET
+pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_MAREEP
+pokemon SPECIES_MAREEP
 pokemon SPECIES_SPINARAK
-pokemon SPECIES_RATTATA
 pokemon SPECIES_SPINARAK
-pokemon SPECIES_RATTATA
-pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_HOOTHOOT
-pokemon SPECIES_HOOTHOOT
-pokemon SPECIES_HOOTHOOT
-pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_HOPPIP
+pokemon SPECIES_HOPPIP
+pokemon SPECIES_LEDYBA
+pokemon SPECIES_HOPPIP
+pokemon SPECIES_LEDYBA
 
 // hoenn encounter slots
 pokemon SPECIES_WHISMUR
