@@ -867,48 +867,48 @@ superrodrate 75
 walklevels 6, 4, 6, 4, 6, 6, 6, 6, 6, 4, 6, 4
 
 // morning encounter slots
-// marill 25, wooper 25, snubull 25, houndour 25
+// marill 25, wooper 25, snubbull 25, houndour 25
 pokemon SPECIES_MARILL
 pokemon SPECIES_WOOPER
-pokemon SPECIES_SNUBULL
-pokemon SPECIES_SNUBULL
+pokemon SPECIES_SNUBBULL
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_MARILL
 pokemon SPECIES_WOOPER
-pokemon SPECIES_SNUBULL
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_HOUNDOUR
-pokemon SPECIES_SNUBULL
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_HOUNDOUR
 
 // day encounter slots
-// marill 25, wooper 25, snubull 25, houndour 25
+// marill 25, wooper 25, snubbull 25, houndour 25
 pokemon SPECIES_MARILL
 pokemon SPECIES_WOOPER
-pokemon SPECIES_SNUBULL
-pokemon SPECIES_SNUBULL
+pokemon SPECIES_SNUBBULL
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_MARILL
 pokemon SPECIES_WOOPER
-pokemon SPECIES_SNUBULL
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_HOUNDOUR
-pokemon SPECIES_SNUBULL
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_HOUNDOUR
 
 // night encounter slots
-// marill 25, wooper 25, snubull 25, houndour 25
+// marill 25, wooper 25, snubbull 25, houndour 25
 pokemon SPECIES_MARILL
 pokemon SPECIES_WOOPER
-pokemon SPECIES_SNUBULL
-pokemon SPECIES_SNUBULL
+pokemon SPECIES_SNUBBULL
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_MARILL
 pokemon SPECIES_WOOPER
-pokemon SPECIES_SNUBULL
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_HOUNDOUR
-pokemon SPECIES_SNUBULL
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_HOUNDOUR
 
 // hoenn encounter slots
@@ -1812,14 +1812,14 @@ superrodrate 0
 walklevels 6, 7, 6, 7, 6, 6, 6, 6, 8, 4, 8, 4
 
 // morning encounter slots
-// snubull 25, houndour 25, elekid 25, magby 25
-pokemon SPECIES_SNUBULL
+// snubbull 25, houndour 25, elekid 25, magby 25
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_ELEKID
 pokemon SPECIES_ELEKID
 pokemon SPECIES_MAGBY
 pokemon SPECIES_MAGBY
-pokemon SPECIES_SNUBULL
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_ELEKID
 pokemon SPECIES_MAGBY
@@ -1827,14 +1827,14 @@ pokemon SPECIES_ELEKID
 pokemon SPECIES_MAGBY
 
 // day encounter slots
-// snubull 25, houndour 25, elekid 25, magby 25
-pokemon SPECIES_SNUBULL
+// snubbull 25, houndour 25, elekid 25, magby 25
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_ELEKID
 pokemon SPECIES_ELEKID
 pokemon SPECIES_MAGBY
 pokemon SPECIES_MAGBY
-pokemon SPECIES_SNUBULL
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_ELEKID
 pokemon SPECIES_MAGBY
@@ -1842,14 +1842,14 @@ pokemon SPECIES_ELEKID
 pokemon SPECIES_MAGBY
 
 // night encounter slots
-// snubull 25, houndour 25, elekid 25, magby 25
-pokemon SPECIES_SNUBULL
+// snubbull 25, houndour 25, elekid 25, magby 25
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_ELEKID
 pokemon SPECIES_ELEKID
 pokemon SPECIES_MAGBY
 pokemon SPECIES_MAGBY
-pokemon SPECIES_SNUBULL
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_ELEKID
 pokemon SPECIES_MAGBY
