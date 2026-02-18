@@ -3,6 +3,17 @@
 
 #define GEN_LATEST 9
 
+// Changes from default:
+// Disabled hidden abillities
+// Disabled Z-moves, dynamax, and terastalization
+// Disabled seasons
+// Disabled friendship effects
+// Enabled disabling end of turn weather message
+// Enabled deletable HMs
+// Set shiny odds to 1/2048
+// Set protean behavior to gen 8
+// Set snow warning behavior to gen 8
+
 // FAIRY_TYPE_IMPLEMENTED should be used if you want to implement the fairy type and overwrite type 9 in this project
 // set FAIRY_TYPE_IMPLEMENTED to 0 if you do not want this to happen
 #define FAIRY_TYPE_IMPLEMENTED 1
@@ -160,7 +171,7 @@
 #define REUSABLE_TMS
 
 // DELETABLE_HMS allows HMs to be forgotten, this also makes their quantity reduce, but the infinite TMs change prevents this.
-//#define DELETABLE_HMS
+#define DELETABLE_HMS
 
 // MART_EXPANSION allows for adding and modifying items to the mart inventories
 #define MART_EXPANSION
